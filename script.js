@@ -15,6 +15,7 @@ function formatDate(date){
   }
 
 }
-  
+
+formatDate(new Date(2022, 7, 8, 17, 47))
 
 
